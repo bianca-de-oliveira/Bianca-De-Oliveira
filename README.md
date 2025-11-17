@@ -33,7 +33,7 @@
 
 ## 🚀 Objetivo profissional
 
-Quero seguir carreira na area de tecnologia trabalhando com:
+Quero seguir carreira na area de tecnologia trabalhando como
   
 - 💻 Desenvolvedora  
 
