@@ -4,7 +4,7 @@
 
 ## ✨ Sobre mim
 
-- 🎮 Apaixonada por **games,** tecnologia e arte. 
+- 🎮 Apaixonada por **tecnologia,** games e arte. 
 - 🎨 Estudando para trabalhar como Desenvolvedora.  
 - 📚 Atualmente aprendendo **JavaScript**   
 - 🧃 Amo criar.
