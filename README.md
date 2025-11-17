@@ -4,7 +4,7 @@
 
 ## ✨ Sobre mim
 
-- 🎮 Apaixonada por **games** e arte. 
+- 🎮 Apaixonada por **games,** tecnologia e arte. 
 - 🎨 Estudando para trabalhar como Desenvolvedora.  
 - 📚 Atualmente aprendendo **JavaScript**   
 - 🧃 Amo criar.
@@ -26,8 +26,6 @@
   <img src="https://skillicons.dev/icons?i=vscode,ps,ai,figma" />
 </p>
 
-
-
 ---
 
 
@@ -36,7 +34,6 @@
 Quero seguir carreira na area de tecnologia trabalhando como
   
 - 💻 Desenvolvedora  
-
 
 ---
 
@@ -48,10 +45,8 @@ Quero seguir carreira na area de tecnologia trabalhando como
 
 ---
 
-<div>
-  <p>
-    ## 💖 Obrigada pela visita! 
-  </p>
+## 💖 Obrigada pela visita! 
+ 
 </div>
 <p align="center">
   <img width="128" height="128" alt="mewo-omori" src="https://github.com/user-attachments/assets/1d882c28-3188-4334-8100-a6a86b26d416" />
