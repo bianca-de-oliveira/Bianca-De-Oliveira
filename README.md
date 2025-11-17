@@ -12,10 +12,10 @@
 
 ---
 
-## 🛠️ Tecnologias que estou aprendendo
+## 🤖 Linguagens e Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git" />
 </p>
 
 ---
