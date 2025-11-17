@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://github.com/bianca-de-oliveira/Bianca-De-Oliveira/blob/main/assets/silent%20witch%20Artstation.jpg?raw=true" alt="banner" />
-</p>
-
-
 <h1 align="center">🌸 Olá! Eu sou a Bia</h1>
 
 <p align="center"> 👩‍💻 Desenvolvedora front end!
