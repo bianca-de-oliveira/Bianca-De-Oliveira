@@ -1,13 +1,15 @@
 <h1 align="center">🌸 Olá! Eu sou a Bia</h1>
 
-<p align="center"> 👩‍💻 Desenvolvedora front end!
+<p align="center">
+👩‍💻 Estudante de ADS | Desenvolvimento de Software
+</p>
 
 ## ✨ Sobre mim
 
-- 🎮 Apaixonada por **Tecnologia,** games e arte. 
-- 🎨 Estudando para trabalhar como Desenvolvedora.  
-- 📚 Atualmente aprendendo **JavaScript**   
-- 🧃 Amo criar.
+- 🎮 Apaixonada por tecnologia, games e arte  
+- 💻 Tenho base em **HTML, CSS e JavaScript**  
+- 📚 Atualmente aprendendo **Node.js** e conceitos de backend e APIs  
+- 🧃 Amo criar
 
 
 ---
@@ -15,7 +17,7 @@
 ## 🤖 Linguagens e Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,nodejs" />
 </p>
 
 ---
@@ -23,7 +25,7 @@
 ## 🎨 Ferramentas que eu uso
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,ps,ai,figma" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,ps,ai,figma" />
 </p>
 
 ---
@@ -31,9 +33,7 @@
 
 ## 🚀 Objetivo profissional
 
-Quero seguir carreira na area de tecnologia trabalhando como
-  
-- 💻 Desenvolvedora  
+Busco uma **oportunidade de estágio** para aprender com a equipe, ganhar experiência prática e evoluir como desenvolvedora.
 
 ---
 
